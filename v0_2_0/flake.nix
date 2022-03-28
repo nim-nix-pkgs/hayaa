@@ -11,7 +11,6 @@
   inputs.src-hayaa-v0_2_0.ref   = "refs/tags/v0.2.0";
   inputs.src-hayaa-v0_2_0.owner = "angus-lherrou";
   inputs.src-hayaa-v0_2_0.repo  = "hayaa";
-  inputs.src-hayaa-v0_2_0.dir   = "";
   inputs.src-hayaa-v0_2_0.type  = "github";
   
   inputs."illwill".owner = "nim-nix-pkgs";
